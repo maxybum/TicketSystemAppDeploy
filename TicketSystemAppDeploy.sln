@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TicketSystemAppDeploy", "TicketSystemAppDeploy\TicketSystemAppDeploy.njsproj", "{A085E80D-2049-4011-9CDB-AEE41F3D1CE5}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TicketSystemAppDeploy", "TicketSystemAppDeploy.njsproj", "{AFA11B71-A51A-481F-BD0A-258EB673C823}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A085E80D-2049-4011-9CDB-AEE41F3D1CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A085E80D-2049-4011-9CDB-AEE41F3D1CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A085E80D-2049-4011-9CDB-AEE41F3D1CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A085E80D-2049-4011-9CDB-AEE41F3D1CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA11B71-A51A-481F-BD0A-258EB673C823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA11B71-A51A-481F-BD0A-258EB673C823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA11B71-A51A-481F-BD0A-258EB673C823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA11B71-A51A-481F-BD0A-258EB673C823}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DA6AA6A1-34DF-4362-9DC2-0C032E8BD5BE}
+		SolutionGuid = {AE2CC252-56DF-48E3-A33D-64A1C02C261E}
 	EndGlobalSection
 EndGlobal
