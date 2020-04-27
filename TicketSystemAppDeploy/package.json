@@ -9,7 +9,7 @@
   },
   "description": "TicketSystemAppDeploy",
   "author": {
-    "name": ""
+    "name": "reinder.eu"
   },
   "dependencies": {
     "vue": "2.5.17"
@@ -17,7 +17,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "3.0.4",
     "@vue/cli-plugin-eslint": "3.0.4",
-    "@vue/cli-service": "3.0.4",
+    "@vue/cli-service": "^4.1.0",
     "eslint": "5.6.0",
     "eslint-plugin-vue": "4.7.1",
     "vue-template-compiler": "2.5.17"
@@ -31,7 +31,12 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "no-console": "off",
+      "no-debugger": "off",
+      "no-unused-vars": "off",
+      "no-undef": "off"
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
